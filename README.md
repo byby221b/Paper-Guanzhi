@@ -2,7 +2,7 @@
 
 > *A curated anthology of the most influential papers in computer science.*
 
-**"Guanzhi"** comes from the Chinese classic *"古文观止"*, meaning "the finest writings — see these and look no further." This repository collects two kinds of papers: **Foundations** — papers whose significance is self-evident and needs no award to prove it; and **Test-of-Time Awards** — papers honored years after publication for their lasting impact.
+**"Guanzhi"** comes from the Chinese classic **"古文观止"**, meaning "the finest writings — see these and look no further." This repository collects two kinds of papers: **Foundations** — papers whose significance is self-evident and needs no award to prove it; and **Test-of-Time Awards** — papers honored years after publication for their lasting impact.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
