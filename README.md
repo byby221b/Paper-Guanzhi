@@ -1,8 +1,8 @@
 # Paper Guanzhi 📜
 
-> *论文观止 — A curated anthology of the most influential papers in computer science, recognized by top-venue Test-of-Time Awards.*
+> *A curated anthology of the most influential papers in computer science.*
 
-**"观止"** comes from the Chinese classic *"古文观止"* (Guwen Guanzhi), meaning "the finest writings — see these and look no further." This repository collects papers that have **stood the test of time**: works honored years after publication for their lasting impact on the field.
+**"Guanzhi"** comes from the Chinese classic *"Guwen Guanzhi"*, meaning "the finest writings — see these and look no further." This repository collects two kinds of papers: **Foundations** — papers whose significance is self-evident and needs no award to prove it; and **Test-of-Time Awards** — papers honored years after publication for their lasting impact.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-blue)
@@ -12,21 +12,38 @@
 
 ## Why This List?
 
-Thousands of papers are published at top venues each year. But which ones truly matter a decade later? **Test-of-Time Awards** answer that question — they are given to papers that have demonstrated **lasting, transformative impact** on the field. This list gathers them all in one place, organized, verified, and annotated.
+Thousands of papers are published at top venues each year. Some are recognized as classics only decades later. This repository approaches the problem from two directions: **Foundations** traces the intellectual DNA of AI from Turing and Shannon to Transformers, curated from authoritative histories like Nilsson's *The Quest for AI*; **Test-of-Time Awards** gathers papers formally honored by major conferences for proven lasting impact. Quality over quantity — every entry must earn its place.
 
 ---
 
 ## Contents
 
-- **[Test-of-Time Awards](#test-of-time-awards)** — Papers honored for lasting impact
+- **[Foundations](#foundations)** — Selected for their landmark status, independent of any award
+  - [Pre-AI (1936–1956)](foundations/pre-ai.md) — Turing Machine, Information Theory, Dartmouth
+  - [Classical AI (1956–1979)](foundations/classical-ai.md) — Search, Planning, Knowledge Representation
+  - [Modern Foundations (1980–2009)](foundations/modern-foundations.md) — Bayesian Networks, Neural Network Revival, Reinforcement Learning
+  - [Deep Learning Era (2010–)](foundations/deep-learning-era.md) — CNN, Transformer, Scaling Laws
+- **[Test-of-Time Awards](#test-of-time-awards)** — Papers honored years later for proven lasting impact
   - [AI & Machine Learning](#ai--machine-learning)
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
   - [Information Retrieval & Data Mining](#information-retrieval--data-mining)
-- **[Best Paper Awards](#best-paper-awards)** *(coming soon)*
-- **[Other Honors](#other-honors)** *(coming soon)*
 - [Award Quick Reference](#award-quick-reference)
 - [Contributing](#contributing)
+
+---
+
+## Foundations
+
+> Foundational works — selected for their irreplaceable role in the history of AI, independent of any award.
+> Primary references: Nils Nilsson [*The Quest for AI*](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) (Stanford, 2010) and [Ilya Sutskever's recommended reading list](https://github.com/dzyim/ilya-sutskever-recommended-reading), cross-validated against each other.
+
+| Period | Page | Papers | Keywords |
+|------|------|--------|--------|
+| 1936–1956 | **[Pre-AI](foundations/pre-ai.md)** | 12 | Turing Machine, Information Theory, Dartmouth, Logic Theorist |
+| 1956–1979 | **[Classical AI](foundations/classical-ai.md)** | 18 | Perceptron, A\*, STRIPS, Resolution, Frames, SHRDLU |
+| 1980–2009 | **[Modern Foundations](foundations/modern-foundations.md)** | 20 | Bayesian Networks, Backprop, SVM, Q-learning, LDA, Deep Blue |
+| 2010–Present | **[Deep Learning Era](foundations/deep-learning-era.md)** | 15 | AlexNet, ResNet, Transformer, GAN, GNN, Scaling Laws |
 
 ---
 
@@ -194,30 +211,6 @@ Thousands of papers are published at top venues each year. But which ones truly 
 
 ---
 
-## Best Paper Awards
-
-*Coming soon.* This section will cover Best Paper awards from major venues. Planned coverage:
-
-- [ ] NeurIPS Best Paper
-- [ ] ICML Best Paper
-- [ ] ICLR Outstanding Paper
-- [ ] CVPR Best Paper
-- [ ] ACL Best Paper
-- [ ] KDD Best Paper
-
----
-
-## Other Honors
-
-*Coming soon.* Planned additions:
-
-- [ ] Turing Award Lectures & Key Papers
-- [ ] IJCAI Computers and Thought Award
-- [ ] ACM SIGKDD Innovation Award
-- [ ] IEEE PAMI Young Researcher Award
-
----
-
 ## Contributing
 
 Contributions are welcome! If you notice a missing award, an error, or want to add a new category:
@@ -238,5 +231,5 @@ This work is licensed under [CC BY 4.0](LICENSE). You are free to share and adap
 ---
 
 <p align="center">
-  <i>"观止" — See these, and look no further.</i>
+  <i>"Guanzhi" — See these, and look no further.</i>
 </p>
