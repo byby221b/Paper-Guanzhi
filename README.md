@@ -140,6 +140,7 @@ Thousands of papers are published at top venues each year. Some are recognized a
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
 | 2026 | **Deep Residual Learning for Image Recognition** | Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun | CVPR 2016 | [🔗](https://cvpr.thecvf.com/virtual/2026/awards_detail) |
+| 2026 | **You Only Look Once: Unified, Real-Time Object Detection** | Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi | CVPR 2016 | [🔗](https://cvpr.thecvf.com/virtual/2026/awards_detail) |
 | 2025 | **Going Deeper with Convolutions** | Christian Szegedy et al. | CVPR 2015 | [🔗](https://cvpr.thecvf.com/Conferences/2025/News/TCPAMI) |
 | 2025 | **Fully Convolutional Networks for Semantic Segmentation** | Jonathan Long, Evan Shelhamer, Trevor Darrell | CVPR 2015 | [🔗](https://cvpr.thecvf.com/Conferences/2025/News/TCPAMI) |
 | 2024 | **Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation** | Ross Girshick et al. | CVPR 2014 | [🔗](https://cvpr.thecvf.com/Conferences/2024/News/Awards) |
