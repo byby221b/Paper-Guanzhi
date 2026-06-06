@@ -10,6 +10,12 @@
 
 ## All Winners
 
+### 2025 (papers from ICCV 2015)
+
+| Paper | Authors | Source |
+|-------|---------|--------|
+| **Fast R-CNN** | Ross Girshick | [🔗](https://tc.computer.org/tcpami/awards/the-helmholtz-prize/) |
+
 ### 2021 (papers from ICCV 2011)
 
 | Paper | Authors | Source |

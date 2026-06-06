@@ -26,7 +26,8 @@
 
 | Year | Type | Paper | Authors | Venue | Source |
 |------|------|-------|---------|-------|--------|
-| 2025 | Winner | **Learning to Personalize Query Auto-Completion** | Milad Shokouhi | SIGIR 2013 | [🔗](https://sigir.org/test-of-time-award-winners/) |
+| 2025 | Winner | **Image-based Recommendations on Styles and Substitutes** | Julian McAuley, Christopher Targett, Qinfeng Shi, Anton van den Hengel | SIGIR 2015 | [🔗](https://sigir.org/test-of-time-award-winners/) |
+| 2025 | HM | **Learning to Personalize Query Auto-Completion** | Milad Shokouhi | SIGIR 2013 | [🔗](https://sigir.org/test-of-time-award-winners/) |
 | 2025 | HM | **Time-aware Point-of-Interest Recommendation** | Quan Yuan et al. | SIGIR 2013 | [🔗](https://sigir.org/test-of-time-award-winners/) |
 | 2024 | Winner | **Explicit Factor Models for Explainable Recommendation** | Yongfeng Zhang et al. | SIGIR 2014 | [🔗](https://sigir.org/test-of-time-award-winners/) |
 | 2024 | HM | **Time-based Calibration of Effectiveness Measures** | Mark Smucker, Charles Clarke | SIGIR 2012 | [🔗](https://sigir.org/test-of-time-award-winners/) |

@@ -68,6 +68,8 @@ Thousands of papers are published at top venues each year. Some are recognized a
 | 2018 | **The Tradeoffs of Large Scale Learning** | Leon Bottou, Olivier Bousquet | NeurIPS 2007 | [🔗](https://neurips.cc/virtual/2018/awards_detail) |
 | 2017 | **Random Features for Large-Scale Kernel Machines** | Ali Rahimi, Benjamin Recht | NeurIPS 2007 | [🔗](https://neurips.cc/virtual/2017/awards_detail) |
 
+> **[→ Full list with details](test-of-time/neurips.md)**
+
 <details>
 <summary>📖 What each paper contributed</summary>
 
@@ -105,10 +107,13 @@ Thousands of papers are published at top venues each year. Some are recognized a
 
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
+| 2026 | **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** | Alec Radford, Luke Metz, Soumith Chintala | ICLR 2016 | [🔗](https://blog.iclr.cc/2026/04/22/announcing-the-test-of-time-awards-from-iclr-2016/) |
+| 2026 | **Continuous Control with Deep Reinforcement Learning** | Timothy Lillicrap et al. | ICLR 2016 | [🔗](https://blog.iclr.cc/2026/04/22/announcing-the-test-of-time-awards-from-iclr-2016/) |
 | 2025 | **Adam: A Method for Stochastic Optimization** | Diederik P. Kingma, Jimmy Ba | ICLR 2015 | [🔗](https://blog.iclr.cc/2025/04/14/announcing-the-test-of-time-award-winners-from-iclr-2015/) |
 | 2025 *(runner-up)* | **Neural Machine Translation by Jointly Learning to Align and Translate** | Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio | ICLR 2015 | [🔗](https://blog.iclr.cc/2025/04/14/announcing-the-test-of-time-award-winners-from-iclr-2015/) |
 | 2024 | **Auto-Encoding Variational Bayes** | Diederik P. Kingma, Max Welling | ICLR 2014 | [🔗](https://blog.iclr.cc/2024/05/07/iclr-2024-test-of-time-award/) |
-| 2024 *(runner-up)* | **Intriguing Properties of Neural Networks** | Christian Szegedy et al. | ICLR 2014 | [🔗](https://blog.iclr.cc/2024/05/07/iclr-2024-test-of-time-award/) |
+
+> **[→ Full list](test-of-time/iclr.md)**
 
 ---
 
@@ -134,6 +139,7 @@ Thousands of papers are published at top venues each year. Some are recognized a
 
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
+| 2026 | **Deep Residual Learning for Image Recognition** | Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun | CVPR 2016 | [🔗](https://cvpr.thecvf.com/virtual/2026/awards_detail) |
 | 2025 | **Going Deeper with Convolutions** | Christian Szegedy et al. | CVPR 2015 | [🔗](https://cvpr.thecvf.com/Conferences/2025/News/TCPAMI) |
 | 2025 | **Fully Convolutional Networks for Semantic Segmentation** | Jonathan Long, Evan Shelhamer, Trevor Darrell | CVPR 2015 | [🔗](https://cvpr.thecvf.com/Conferences/2025/News/TCPAMI) |
 | 2024 | **Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation** | Ross Girshick et al. | CVPR 2014 | [🔗](https://cvpr.thecvf.com/Conferences/2024/News/Awards) |
@@ -151,6 +157,7 @@ Thousands of papers are published at top venues each year. Some are recognized a
 
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
+| 2025 | **Fast R-CNN** | Ross Girshick | ICCV 2015 | [🔗](https://tc.computer.org/tcpami/awards/the-helmholtz-prize/) |
 | 2021 | **ORB: An Efficient Alternative to SIFT or SURF** | Ethan Rublee et al. | ICCV 2011 | [🔗](https://iccv2021.thecvf.com/iccv-2021-paper-awards) |
 | 2017 | **Video Google: A Text Retrieval Approach to Object Matching in Videos** | Josef Sivic, Andrew Zisserman | ICCV 2003 | [🔗](https://www.thecvf.com/?page_id=537) |
 | 2013 | **Snakes: Active Contour Models** | Michael Kass, Andrew Witkin, Demetri Terzopoulos | ICCV 1987 | [🔗](https://www.thecvf.com/?p=84) |
@@ -201,6 +208,7 @@ Thousands of papers are published at top venues each year. Some are recognized a
 | ICML | Test of Time Award | 2014 | 10 years | [icml.cc](https://icml.cc/) |
 | ICLR | Test of Time Award | 2024 | 10 years | [blog.iclr.cc](https://blog.iclr.cc/) |
 | AAAI | Classic Paper Award | 1999 | ~15 years | [aaai.org](https://aaai.org/about-aaai/aaai-awards/aaai-classic-paper-award/) |
+| AISTATS | Test of Time Award | — | ~10 years | [aistats.org](https://virtual.aistats.org/) |
 | CVPR | Longuet-Higgins Prize | 2005 | 10 years | [thecvf.com](https://www.thecvf.com/?page_id=534) |
 | ICCV | Helmholtz Prize | 2013 | 10 years | [thecvf.com](https://www.thecvf.com/?page_id=537) |
 | ACL | Test-of-Time Paper Award | 2020 | 10yr + 25yr | [aclweb.org](https://www.aclweb.org/adminwiki/index.php/ACL_Test-of-Time_Papers_Award_Recipients) |
