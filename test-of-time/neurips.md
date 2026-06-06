@@ -2,7 +2,7 @@
 
 > **Official page:** [neurips.cc](https://neurips.cc/) | [Blog](https://blog.neurips.cc/)
 >
-> Established in **2020**. Honors papers from ~10 years prior.
+> Established in **2017**. Honors papers from ~10 years prior.
 
 [← Back to main list](../README.md)
 
@@ -19,3 +19,6 @@
 | 2022 | **ImageNet Classification with Deep Convolutional Neural Networks** | Alex Krizhevsky, Ilya Sutskever, Geoffrey Hinton | NeurIPS 2012 | [🔗](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/) |
 | 2021 | **Online Learning for Latent Dirichlet Allocation** | Matthew Hoffman, David Blei, Francis Bach | NeurIPS 2010 | [🔗](https://blog.neurips.cc/2021/11/30/announcing-the-neurips-2021-award-recipients/) |
 | 2020 | **HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent** | Feng Niu, Benjamin Recht, Christopher Re, Stephen Wright | NeurIPS 2011 | [🔗](https://nips.cc/virtual/2020/public/f_awards.html) |
+| 2019 | **Dual Averaging Method for Regularized Stochastic Learning and Online Optimization** | Lin Xiao | NeurIPS 2009 | [🔗](https://neurips.cc/virtual/2019/awards_detail) |
+| 2018 | **The Tradeoffs of Large Scale Learning** | Leon Bottou, Olivier Bousquet | NeurIPS 2007 | [🔗](https://neurips.cc/virtual/2018/awards_detail) |
+| 2017 | **Random Features for Large-Scale Kernel Machines** | Ali Rahimi, Benjamin Recht | NeurIPS 2007 | [🔗](https://neurips.cc/virtual/2017/awards_detail) |
