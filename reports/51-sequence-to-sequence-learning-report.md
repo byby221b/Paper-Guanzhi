@@ -8,6 +8,7 @@
 - 发表时机构：Google
 - 官方论文页：[NeurIPS Proceedings](https://proceedings.neurips.cc/paper_files/paper/2014/hash/5a18e133cbf9f257297f410bb7eca942-Abstract.html)
 - 开放版本：[arXiv:1409.3215](https://arxiv.org/abs/1409.3215)，v1 提交于 2014-09-10，当前 v3 修订于 2014-12-14
+- 后续奖项：NeurIPS 2024 Test of Time Paper Award
 - 精读日期：2026-08-28
 - 对应小红书期号：#51
 
@@ -303,6 +304,10 @@ Google Brain 的 2016 官方回顾称，这项工作展示了 sequence-to-sequen
 
 Bahdanau、Cho、Bengio 的 attention NMT 让 decoder 每一步计算一组源位置权重，避免只依赖一个固定句向量。后来 GNMT 等系统继续加入 subword/wordpiece、bidirectional encoder、attention 和更大规模训练。它们继承条件自回归 encoder–decoder 骨架，同时大幅改变本文的固定词表、单向最后状态和 source reversal 方案。
 
+### NeurIPS 2024 Test of Time
+
+NeurIPS 官方在 2024 年破例授予两篇 Test of Time Paper Awards，本论文与 *Generative Adversarial Nets* 同获奖。官方公告把 encoder–decoder architecture 及其对后来 attention-based improvements 的启发列为影响理由，并称公告发布时本论文引用超过 27,000 次。这是 NeurIPS 自己采用的统计口径与时间点，和下面 OpenAlex 单一 work record 的计数范围不同，不能直接互换。
+
 ### 引用统计
 
 OpenAlex canonical work [W2130942839](https://openalex.org/W2130942839) 在 2026-08-28 查询时 `cited_by_count = 13,350`，DOI 指向 arXiv:1409.3215。OpenAlex 搜索还返回一个同题 PDF record（3,514 citations）；报告不把两个记录相加，以免重复计数。Semantic Scholar API 本次返回 HTTP 429，未取得可复核计数，因此不报告该来源数字。
@@ -349,8 +354,9 @@ Seq2seq 用 encoder 把变长输入化为条件表示，再由 autoregressive de
 2. arXiv:1409.3215. [版本记录](https://arxiv.org/abs/1409.3215)
 3. Google Research, *The Google Brain Team — Looking Back on 2016*. [官方回顾](https://research.google/blog/the-google-brain-team-looking-back-on-2016/)
 4. Google Research, *Introducing tf-seq2seq*. [官方文章](https://research.google/blog/introducing-tf-seq2seq-an-open-source-sequence-to-sequence-framework-in-tensorflow/)
-5. University of Toronto、UC Berkeley 与 Stanford 作者档案：[Sutskever](https://www.utoronto.ca/news/ilya-sutskever-leader-ai-and-its-responsible-development-receives-u-t-honorary-degree)、[Vinyals](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-202.html)、[Le](https://ai.stanford.edu/~quocle/)
-6. OpenAlex work W2130942839. [记录](https://openalex.org/W2130942839)
+5. NeurIPS, *Announcing the NeurIPS 2024 Test of Time Paper Awards*. [官方公告](https://blog.neurips.cc/2024/11/27/announcing-the-neurips-2024-test-of-time-paper-awards/)；[官方 press release](https://media.neurips.cc/Conferences/NeurIPS2024/NeurIPS2024_ToT_Press_Release.pdf)
+6. University of Toronto、UC Berkeley 与 Stanford 作者档案：[Sutskever](https://www.utoronto.ca/news/ilya-sutskever-leader-ai-and-its-responsible-development-receives-u-t-honorary-degree)、[Vinyals](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-202.html)、[Le](https://ai.stanford.edu/~quocle/)
+7. OpenAlex work W2130942839. [记录](https://openalex.org/W2130942839)
 
 ### 同期与后继原始资料
 
