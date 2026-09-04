@@ -16,7 +16,7 @@
 
 ### 原文验证
 
-本次保存的是 PMLR 官方 PDF。服务器返回 HTTP 200、`Content-Type: application/pdf` 与 515,905 字节 `Content-Length`；本地大小一致，文件头为 PDF 1.5，共 10 页，正文提取 63,540 字节。已逐页核查 Equations (1)–(5)、Figure 1–2、Tables 1–7、训练系统、数据管线、英中实验、在线部署与参考文献，未把 HTML 错存为 PDF。
+本次保存的是 PMLR 官方 PDF。服务器返回 HTTP 200、`Content-Type: application/pdf` 与 515,905 字节 `Content-Length`；本地大小一致，文件头为 PDF 1.5，共 10 页，正文提取 63,540 字节。已逐页核查 Equations (1)–(6)、Figures 1–3、Tables 1–7、训练系统、数据管线、英中实验、在线部署与参考文献，未把 HTML 错存为 PDF。
 
 ## 作者与合作背景
 
@@ -56,7 +56,7 @@ Hannun et al. 的第一代 *Deep Speech*（2014）已经把多层 RNN、CTC、�
 
 ### “End-to-end”的准确边界
 
-本文所称 end-to-end，核心是用一个 neural network 从声学输入直接预测字符序列，省去人工音素标签、发音词典、HMM state clustering 等训练环节。推理仍使用 n-gram language model、beam search、word/character insertion term；生产系统还会使用 application-specific language models、转写规范与 post-processing。论文自己在 §7.3 清楚列出这些组件。因此，“从声学到字符的主模型端到端”比“整个语音产品只有一个网络”更准确。
+本文所称 end-to-end，核心是用一个 neural network 从声学输入直接预测字符序列，省去人工音素标签、发音词典、HMM state clustering 等训练环节。推理仍使用 n-gram language model、beam search、word/character insertion term；生产系统还会使用 application-specific language models、转写规范与 post-processing。论文自己在 §7.1 清楚列出这些组件。因此，“从声学到字符的主模型端到端”比“整个语音产品只有一个网络”更准确。
 
 ## 问题形式化
 
@@ -324,7 +324,7 @@ WER/CER 对 reference normalization、tokenization 与 transcript conventions �
 
 ### “端到端”与生产复杂度
 
-论文确实显著压缩传统 acoustic pipeline 的人工组件，但 §7.3 的 production workflow 包含 application-specific data、language model 与格式后处理。模型训练端的简化与产品系统端的简化是两个指标。本文最强证据支持前者，并展示后者仍需系统工程。
+论文确实显著压缩传统 acoustic pipeline 的人工组件，但 §7.1 的 production workflow 包含 application-specific data、language model 与格式后处理。模型训练端的简化与产品系统端的简化是两个指标。本文最强证据支持前者，并展示后者仍需系统工程。
 
 ## 后续影响
 
