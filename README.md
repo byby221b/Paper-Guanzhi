@@ -94,6 +94,7 @@ Thousands of papers are published at top venues each year. Some are recognized a
 
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
+| 2026 | **Asynchronous Methods for Deep Reinforcement Learning** | Volodymyr Mnih et al. | ICML 2016 | [🔗](https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/) |
 | 2025 | **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift** | Sergey Ioffe, Christian Szegedy | ICML 2015 | [🔗](https://icml.cc/virtual/2025/awards_detail) |
 | 2024 | **DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition** | Jeff Donahue et al. | ICML 2014 | [🔗](https://icml.cc/virtual/2024/awards_detail) |
 | 2023 | **Learning Fair Representations** | Rich Zemel, Yu Wu, Kevin Swersky, Toni Pitassi, Cynthia Dwork | ICML 2013 | [🔗](https://icml.cc/virtual/2023/awards_detail) |
@@ -158,6 +159,7 @@ Thousands of papers are published at top venues each year. Some are recognized a
 
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
+| 2025 | **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification** | Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun | ICCV 2015 | [🔗](https://www.thecvf.com/?page_id=413) |
 | 2025 | **Fast R-CNN** | Ross Girshick | ICCV 2015 | [🔗](https://tc.computer.org/tcpami/awards/the-helmholtz-prize/) |
 | 2021 | **ORB: An Efficient Alternative to SIFT or SURF** | Ethan Rublee et al. | ICCV 2011 | [🔗](https://iccv2021.thecvf.com/iccv-2021-paper-awards) |
 | 2017 | **Video Google: A Text Retrieval Approach to Object Matching in Videos** | Josef Sivic, Andrew Zisserman | ICCV 2003 | [🔗](https://www.thecvf.com/?page_id=537) |
@@ -176,6 +178,10 @@ Thousands of papers are published at top venues each year. Some are recognized a
 
 | Year | Track | Paper | Authors | Venue | Source |
 |------|-------|-------|---------|-------|--------|
+| 2026 | 25-yr | **A Probabilistic Earley Parser as a Psycholinguistic Model** | John Hale | NAACL 2001 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
+| 2026 | 10-yr | **Neural Machine Translation of Rare Words with Subword Units** | Rico Sennrich, Barry Haddow, Alexandra Birch | ACL 2016 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
+| 2026 | 10-yr | **SQuAD: 100,000+ Questions for Machine Comprehension of Text** | Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang | EMNLP 2016 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
+| 2026 | 10-yr | **Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter** | Zeerak Waseem, Dirk Hovy | NAACL Student Research Workshop 2016 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
 | 2025 | 25-yr | **Automatic Labeling of Semantic Roles** | Daniel Gildea, Daniel Jurafsky | ACL 2000 | [🔗](https://www.aclweb.org/portal/content/announcement-2025-acl-test-time-paper-award) |
 | 2025 | 10-yr | **Effective Approaches to Attention-based Neural Machine Translation** | Minh-Thang Luong, Hieu Pham, Christopher Manning | EMNLP 2015 | [🔗](https://www.aclweb.org/portal/content/announcement-2025-acl-test-time-paper-award) |
 | 2024 | 10-yr | **GloVe: Global Vectors for Word Representation** | Jeffrey Pennington, Richard Socher, Christopher Manning | EMNLP 2014 | [🔗](https://www.aclweb.org/portal/content/announcement-2024-acl-test-time-paper-award) |
@@ -198,6 +204,16 @@ Thousands of papers are published at top venues each year. Some are recognized a
 | 2023 | **Auto-WEKA: Combined Selection and Hyperparameter Optimization** | Chris Thornton, Frank Hutter, Holger Hoos, Kevin Leyton-Brown | KDD 2013 | [🔗](https://kdd.org/kdd2023/awards/index.html) |
 
 > **[→ See all KDD/SIGIR/WWW winners](test-of-time/kdd.md)**
+
+---
+
+#### WWW — Seoul Test of Time Award
+
+| Year | Paper | Authors | Venue | Source |
+|------|-------|---------|-------|--------|
+| 2026 | **LINE: Large-scale Information Network Embedding** | Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei | WWW 2015 | [🔗](https://www.iw3c2.org/ToT) |
+
+> **[→ More WWW winners](test-of-time/kdd.md#www--seoul-test-of-time-award)**
 
 ---
 

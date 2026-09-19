@@ -15,6 +15,7 @@
 | Paper | Authors | Source |
 |-------|---------|--------|
 | **Fast R-CNN** | Ross Girshick | [🔗](https://tc.computer.org/tcpami/awards/the-helmholtz-prize/) |
+| **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification** | Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun | [🔗](https://www.thecvf.com/?page_id=413) |
 
 ### 2021 (papers from ICCV 2011)
 

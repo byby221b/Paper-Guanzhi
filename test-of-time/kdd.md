@@ -42,6 +42,7 @@
 
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
+| 2026 | **LINE: Large-scale Information Network Embedding** | Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei | WWW 2015 | [🔗](https://www.iw3c2.org/ToT) |
 | 2017 | **Graph Structure in the Web** | Andrei Broder, Ravi Kumar, Farzin Maghoul, Prabhakar Raghavan, Sridhar Rajagopalan, Raymie Stata, Andrew Tomkins, Janet Wiener | WWW 2000 | [🔗](https://archives.iw3c2.org/iw3c2/ToT/) |
 | 2016 | **Item-based Collaborative Filtering Recommendation Algorithms** | Badrul Sarwar, George Karypis, Joseph Konstan, John Riedl | WWW 2001 | [🔗](https://archives.iw3c2.org/iw3c2/ToT/) |
 | 2015 | **The Anatomy of a Large-Scale Hypertextual Web Search Engine** | Sergey Brin, Lawrence Page | WWW 1998 | [🔗](https://archives.iw3c2.org/iw3c2/ToT/) |

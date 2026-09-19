@@ -12,6 +12,15 @@
 
 ## ACL Test-of-Time Paper Award
 
+### 2026
+
+| Track | Paper | Authors | Venue | Source |
+|-------|-------|---------|-------|--------|
+| 25-yr | **A Probabilistic Earley Parser as a Psycholinguistic Model** | John Hale | NAACL 2001 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
+| 10-yr | **Neural Machine Translation of Rare Words with Subword Units** | Rico Sennrich, Barry Haddow, Alexandra Birch | ACL 2016 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
+| 10-yr | **SQuAD: 100,000+ Questions for Machine Comprehension of Text** | Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang | EMNLP 2016 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
+| 10-yr | **Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter** | Zeerak Waseem, Dirk Hovy | NAACL Student Research Workshop 2016 | [🔗](https://www.aclweb.org/portal/content/announcement-2026-acl-test-time-paper-award) |
+
 ### 2025
 
 | Track | Paper | Authors | Venue | Source |

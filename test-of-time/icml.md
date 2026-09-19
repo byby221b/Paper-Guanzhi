@@ -10,6 +10,7 @@
 
 | Year | Paper | Authors | Venue | Source |
 |------|-------|---------|-------|--------|
+| 2026 | **Asynchronous Methods for Deep Reinforcement Learning** | Volodymyr Mnih et al. | ICML 2016 | [🔗](https://blog.icml.cc/2026/07/05/announcing-the-icml-2026-awards/) |
 | 2025 | **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift** | Sergey Ioffe, Christian Szegedy | ICML 2015 | [🔗](https://icml.cc/virtual/2025/awards_detail) |
 | 2024 | **DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition** | Jeff Donahue, Yangqing Jia, Oriol Vinyals, Judy Hoffman, Ning Zhang, Eric Tzeng, Trevor Darrell | ICML 2014 | [🔗](https://icml.cc/virtual/2024/awards_detail) |
 | 2023 | **Learning Fair Representations** | Rich Zemel, Yu Wu, Kevin Swersky, Toni Pitassi, Cynthia Dwork | ICML 2013 | [🔗](https://icml.cc/virtual/2023/awards_detail) |
